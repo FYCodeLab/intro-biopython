@@ -21,5 +21,8 @@ Dans cet exemple, on télécharge le génome mitochondrial complet de *Mammuthus
 
 ---
 
-## 📦 Contenu du dépôt
+## Programme interactif en Google Colab :
+<a href="https://colab.research.google.com/github/FYCodeLab/intro-biopython/blob/main/BioPython_Mammoth_Viz_en.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
