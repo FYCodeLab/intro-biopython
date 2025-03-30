@@ -1,4 +1,5 @@
 # intro-biopython
+![Carte génétique du génome mitochondrial du mammouth](https://raw.githubusercontent.com/FYCodeLab/intro-biopython/main/assets/intromamm.png)
 
 # 🧬 Introduction à Biopython — Visualisation du génome mitochondrial du mammouth
 
